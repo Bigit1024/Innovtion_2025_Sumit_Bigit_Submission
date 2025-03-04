@@ -68,4 +68,4 @@ This project is licensed under the **MIT License**.
 
 ## ✍️ Authors  
 - **Bigit Krishna Goswami, M.Tech CSE, 4th Sem (Batch:- 2023-25), National Institute of Technology, Nagaland**
-- **Sumit Prasad, B.Tech CSE, 6th Sem (Batch:- 2022-26), National Institute of Technology, Nagaland**  
+- **Sumit Prasad, B.Tech CSE, 6th Sem (Batch:- 2022-26), National Institute of Technology, Nagaland**: https://github.com/Sumit123sm  
